@@ -11,3 +11,4 @@ Acá se encuentra la autoevaluación realizada durante la semana del 26 al 30 de
 ### Comentarios: 
 - El análisis podía ser un poco más profundo
 - Al pseudocódigo del problema 2 le faltan especificaciones en los cálculos a realizar y en los bucles, además se podría mejorar la manera de escribir este. 
+- La presentación se puede mejorar organizando los archivos de texto en una carpeta
