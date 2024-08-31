@@ -5,8 +5,8 @@ Acá se encuentra la autoevaluación realizada durante la semana del 26 al 30 de
 | Asistencia y participación | 5,0 |
 | Análisis | 4,0 |
 | Algoritmo | 4,0 |
-| Organización y presentación | 4,0 |
-| Nota | 4,5 |
+| Organización y presentación | 4,5 |
+| Nota | 4,4 |
 
 ### Comentarios: 
 - El análisis podía ser un poco más profundo
