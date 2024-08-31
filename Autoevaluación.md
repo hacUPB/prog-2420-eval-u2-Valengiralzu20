@@ -1,4 +1,4 @@
-## Autoevaluación- Semana 26-30 agosto
+## Autoevaluación: Semana 26-30 agosto
 Acá se encuentra la autoevaluación realizada durante la semana del 26 al 30 de agosto
 | Criterio | Nota |
 |--------------|--------------|
