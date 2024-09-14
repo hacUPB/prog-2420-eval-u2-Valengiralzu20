@@ -1,9 +1,7 @@
+#Simulación desintegración orbital de un satélite 
 
 def main():
-        #Simulación desintegración orbital de un satélite 
-
-    import math #Para poder utilizar operaciones matemáticas 
-
+    
     #Se definió la función y los parámetro que se utilizarán 
     def simulacion_desintegracion(altitud_satelite_inicial, cd_inicial, altitud_satelite_minima):
 
@@ -36,6 +34,6 @@ def main():
     altitud_minima = float(input("\nIngrese la altitud mínima segura (en kilómetros): "))
 
     simulacion_desintegracion(altitud_satelite_inicial, cd_inicial, altitud_minima)
-    
+
 if __name__ == "__main__":
     main()
