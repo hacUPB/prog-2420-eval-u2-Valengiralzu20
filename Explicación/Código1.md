@@ -20,14 +20,20 @@ Se desarrolló un código con el fin de simular el sistema de reservas de una ae
 
 ![Parte 3](image-4.png)
 
-Ahora para la parte 3 
+### Ahora para la parte 3, se realizó lo siguiente: 
 1.	Se definió una función para definir el proceso a realizar en la reserva del vuelo esta se definió como: def reservar_vuelo()
+
 2.	Se creó un bucle para que realizara una serie de actividades 
+
 3.	Por ejemplo en origen= int(("intput”))-1, se utilizó int para que el programa entienda que el valor que debe recibir del usuario es un numero entero y al final se agregó el -1 para que la opcion elegida por el usuario coincida con las opciones definidas en el directorio, entonces si el usuario ingresa que su origen es el destino 1 el programa le resta 1 por lo que da 0 lo que le indica al programa que el usuario tiene como destino la ciudad que se encuentra en la posición 0. 
-4.	Con destino=… se realizó exactamente los mismo que con origen
-5.	Luego se definen las ciudades para que el programa sepa que imprimir cuando se menciona las ciudades y entienda a que se refiere cada numero del directorio 
+
+4.	Con destino=… se realizó exactamente los mismo que con origen.
+
+5.	Luego se definen las ciudades para que el programa sepa que imprimir cuando se menciona las ciudades y entienda a que se refiere cada numero del directorio.
+
 6. Se definió como el programa debe procesar el día de la semana, el mes y el mes del año que desea viajar.
 
+### Finalmente, en la parte 4: 
 ![Parte 4](image-5.png)
  1. Se definió como el programa debe procesar el año.
 
